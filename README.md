@@ -4,6 +4,6 @@ Using the [Nilakantha's formula for pi](http://www.maeckes.nl/Formule%20voor%20p
 
 Oh sure. You could do it manually but do you have 1000 years? I certainly DON'T!
 
-Example at https://bocacode.github.com/react-pi
+Example at [https://bocacode.github.io/react-pi](https://bocacode.github.io/react-pi)
 
 Happy Pi day from your friends at [Boca Code Coding BootCamp](https://bocacode.com)
